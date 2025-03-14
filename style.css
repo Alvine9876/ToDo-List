@@ -1,0 +1,31 @@
+h1 {color: green;
+text-align: center;
+font-size: 30px;}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    padding-top: 60px;
+    background-color: chocolate;
+}
+
+.danvers {
+    background-color: lightcoral;
+    padding: 20px;
+    width: 500px;
+=-
+}
+button.deleteBtn {
+    background-color: red;
+    color: white;
+    padding: 5px ;
+}
+input {
+
+    font-size: 16px;
+    border-radius: 20pxx;
+}
+button {
+    background-color: blue;
+    color: bisque;
+}
